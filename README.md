@@ -1,5 +1,5 @@
 # Titanic (Kaggle)
-The data corresponding to this work is from [Digit Recognizer - Kaggle](https://www.kaggle.com/c/titanic).
+The data corresponding to this work is from [Kaggle](https://www.kaggle.com/c/titanic).
 The objective is to create a predictive model to predict passengers fate (dead or survived) based on their sex, social class, age, fare,...
 
 ## Content
